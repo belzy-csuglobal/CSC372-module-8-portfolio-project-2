@@ -1,0 +1,12 @@
+name, address, gpa
+Alice, 8765 Cedar Court, Dreamland Springs, FL 34567, 3.60
+Bob, 1098 Spruce Drive, Mythical Meadows, CO 76543, 3.80
+Bob, 1234 Avenue Dr. Chicago, IL. 39185, 2.40
+Charlie, 6543 Redwood Boulevard, Enchanted Grove, WA 21098, 2.10
+David, 4321 Birch Road, Fantasy Heights, NY 54321, 2.50
+Eva, 5678 Elm Avenue, Fictional Town, CA 12345, 4.00
+Frank, 9876 Pine Lane, Make-Believe Village, TX 67890, 2.70
+Grace, 7890 Juniper Lane, Mystic Valley, GA 45678, 3.50
+Helen, 3456 Willow Street, Magic Haven, NC 89012, 4.00
+Isaac, 1234 Maple Street, Imaginary City, IL 56789, 3.20
+Jack, 2109 Oak Circle, Wonderland Junction, AZ 87654, 1.90
